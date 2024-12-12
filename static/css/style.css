@@ -1,0 +1,23 @@
+body {
+    background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
+    color: #ffffff;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.text-neon {
+    color: #00ffff;
+}
+
+.neon-text {
+    color: #ff00ff;
+    text-shadow: 0 0 5px #ff00ff, 0 0 10px #ff00ff, 0 0 20px #ff00ff, 0 0 30px #ff00ff;
+}
+
+.display-1 {
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.container {
+    margin-top: 20vh;
+}
